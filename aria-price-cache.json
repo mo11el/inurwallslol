@@ -1,0 +1,72 @@
+{
+  "AAPL": {
+    "ticker": "AAPL",
+    "price": 289.53,
+    "prev_close": 290.55,
+    "pct_change": -0.35,
+    "volume": 15156236,
+    "avg_volume": 45969340,
+    "vol_mult": 0.33,
+    "fetched_at": "2026-06-10T15:11:33.400083+00:00"
+  },
+  "BTC": {
+    "ticker": "BTC",
+    "price": 29.13,
+    "prev_close": 29.72,
+    "pct_change": -1.99,
+    "volume": 1590346,
+    "avg_volume": 2735907,
+    "vol_mult": 0.58,
+    "fetched_at": "2026-06-03T19:15:32.224516+00:00"
+  },
+  "EAT": {
+    "ticker": "EAT",
+    "price": 152.27,
+    "prev_close": 150.83,
+    "pct_change": 0.95,
+    "volume": 247825,
+    "avg_volume": 1156545,
+    "vol_mult": 0.21,
+    "fetched_at": "2026-06-10T15:11:35.197194+00:00"
+  },
+  "KNOW": {
+    "ticker": "KNOW",
+    "price": 12.76,
+    "prev_close": 12.76,
+    "pct_change": -0.0,
+    "volume": 6,
+    "avg_volume": 1521,
+    "vol_mult": 0.0,
+    "fetched_at": "2026-06-10T15:11:35.623576+00:00"
+  },
+  "TRT": {
+    "ticker": "TRT",
+    "price": 12.09,
+    "prev_close": 12.43,
+    "pct_change": -2.74,
+    "volume": 490604,
+    "avg_volume": 1194867,
+    "vol_mult": 0.41,
+    "fetched_at": "2026-06-03T19:15:33.727734+00:00"
+  },
+  "VT": {
+    "ticker": "VT",
+    "price": 153.12,
+    "prev_close": 154.3,
+    "pct_change": -0.76,
+    "volume": 3577879,
+    "avg_volume": 3787734,
+    "vol_mult": 0.94,
+    "fetched_at": "2026-06-10T15:11:36.717184+00:00"
+  },
+  "AMZN": {
+    "ticker": "AMZN",
+    "price": 239.19,
+    "prev_close": 244.19,
+    "pct_change": -2.05,
+    "volume": 11577198,
+    "avg_volume": 44277478,
+    "vol_mult": 0.26,
+    "fetched_at": "2026-06-10T15:11:34.608590+00:00"
+  }
+}

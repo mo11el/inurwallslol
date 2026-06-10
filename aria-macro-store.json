@@ -1,0 +1,22 @@
+{
+  "users": {
+    "+12025497302": {
+      "opted_in": true,
+      "opted_at": "2026-06-07T21:21:33.111Z",
+      "chatId": "+12025497302",
+      "senderId": "+12025497302",
+      "lastBrief": null,
+      "frequency": "daily"
+    },
+    "+13016400441": {
+      "opted_in": true,
+      "opted_at": "2026-06-07T21:41:26.593Z",
+      "chatId": "+13016400441",
+      "senderId": "+13016400441",
+      "lastBrief": null,
+      "frequency": "daily"
+    }
+  },
+  "lastCrucixCheck": "2026-06-07T23:13:56.484Z",
+  "lastCrucixSha": "3db7068817e0c815df353fa0f19657c85142789d"
+}

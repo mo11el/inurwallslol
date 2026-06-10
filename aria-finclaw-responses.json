@@ -1,0 +1,80 @@
+[
+  {
+    "id": "cmd_1780684130082_0",
+    "type": "full_analysis",
+    "ticker": "THE",
+    "data": {
+      "quote": null,
+      "fundamentals": {
+        "ticker": "THE",
+        "name": "THE",
+        "sector": "",
+        "pe": null,
+        "fwd_pe": null,
+        "peg": null,
+        "ps": null,
+        "pb": null,
+        "ev_ebitda": null,
+        "revenue_growth": null,
+        "earnings_growth": null,
+        "gross_margins": null,
+        "op_margins": null,
+        "profit_margins": null,
+        "roe": null,
+        "debt_equity": null,
+        "current_ratio": null,
+        "52w_high": null,
+        "52w_low": null,
+        "analyst_target": null,
+        "recommendation": "",
+        "fetched": "2026-06-05T18:30:31.729016+00:00"
+      },
+      "technicals": {
+        "ticker": "THE",
+        "available": false
+      },
+      "news": [
+        {
+          "title": "'Big Short' investor Michael Burry says bitcoin is the 'tulip bulb of our time'",
+          "publisher": "Business Insider",
+          "url": "https://www.businessinsider.com/michael-burry-bitcoin-price-tulip-bulb-big-short-2025-12",
+          "published": "2025-12-02T14:29:45Z"
+        },
+        {
+          "title": "Here's how much crypto or gold investing legend Ray Dalio says you should have in your portfolio",
+          "publisher": "Business Insider",
+          "url": "https://www.businessinsider.com/ray-dalio-gold-bitcoin-allocation-investing-us-debt-crisis-deficit-2025-7",
+          "published": "2025-07-29T17:34:12Z"
+        }
+      ],
+      "insiders": [],
+      "related": [],
+      "opinion": {
+        "ticker": "THE",
+        "stance": "Neutral",
+        "conviction": "Low",
+        "bull_count": 0,
+        "bear_count": 1,
+        "signals": [
+          "below 200d SMA"
+        ],
+        "updated": "2026-06-05T18:30:32.466524+00:00"
+      }
+    }
+  },
+  {
+    "id": "cmd_1780779622606_0",
+    "type": "quote",
+    "data": {
+      "ticker": "AAPL",
+      "price": 307.34,
+      "prev": 311.23,
+      "chg_pct": -1.25,
+      "volume": 65246700,
+      "avg_vol": 44895925,
+      "vol_mult": 1.45,
+      "mkt_cap": 4514011939253.3,
+      "fetched": "2026-06-06T21:00:31.296437+00:00"
+    }
+  }
+]

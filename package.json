@@ -1,0 +1,31 @@
+{
+  "name": "ariafullfree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.100.1",
+    "@google/genai": "^2.2.0",
+    "@insforge/sdk": "^1.2.9",
+    "@photon-ai/advanced-imessage-kit": "^1.16.0",
+    "dotenv": "^17.4.2",
+    "node-cron": "^4.2.1",
+    "openai": "^6.37.0",
+    "spectrum-ts": "^1.7.2",
+    "yaml": "^2.9.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.8.0",
+    "@types/node-cron": "^3.0.11",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.22.0",
+    "typescript": "^5.9.3"
+  }
+}
